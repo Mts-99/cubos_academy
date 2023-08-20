@@ -2,8 +2,8 @@
 const rendaMensalEmCentavos = 1_500_00;
 const porcentagem = 0.18;                                
 const parcela = rendaMensalEmCentavos * porcentagem;    
-const mesesDecorridos = 6;
-const totalJaPagoPeloAluno = 17_000_00;                   
+const mesesDecorridos = 12;
+const totalJaPagoPeloAluno = 10_000_00;                   
 const valorApagar = 18_000_00
 const falta = valorApagar - totalJaPagoPeloAluno;
 
